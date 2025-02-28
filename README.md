@@ -4,7 +4,7 @@
 
 This project analyzes socioeconomic indicators across different provinces, focusing on trends in illiteracy rates, school enrollment rates, and poverty indices from 2019 to 2023. The primary goal is to understand the relationships between these factors and identify patterns or clusters of provinces with similar socioeconomic characteristics.
 
-## Data Sources
+**This project was developed as an individual assignment for the Data Science course at [Universitas Islam Indonesia] during the [3rd Semester].** It represents the culmination of learned skills and methodologies applied to real-world data analysis.
 
 The analysis uses the following datasets:
 
